@@ -45,7 +45,7 @@ public class SquareGameGraphics {
 
     private void drawLevelInfo(PApplet applet)
     {
-        int textMargin = (int) (applet.width * 0.025); 
+        int textMargin = (int) (applet.width * 0.030); 
         int textSize = (int) (applet.width * 0.06);
         applet.fill(0);
         applet.textSize(textSize);
